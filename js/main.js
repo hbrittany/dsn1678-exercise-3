@@ -12,6 +12,5 @@ var buttonClickHandler = function () {
 
 };
 
-
 sales.on("click", buttonClickHandler);
 
